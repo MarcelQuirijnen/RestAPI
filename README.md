@@ -1,7 +1,6 @@
 # README #
 
-A basic REST API example. One written in PHP, the other one written in Javascript using Node, Express.
-Both API retrieve data from a MySQL database.
+A basic CRUD REST API example written in PHP.
 
 ### What is this repository for? ###
 
