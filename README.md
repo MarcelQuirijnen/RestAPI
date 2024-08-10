@@ -1,6 +1,7 @@
 # README #
 
 A basic CRUD REST API example written in PHP.
+Use curl to test it.
 
 ### What is this repository for? ###
 
