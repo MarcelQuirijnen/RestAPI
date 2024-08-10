@@ -1,10 +1,10 @@
-<?php
+o?php
 
 mysqli_report(MYSQLI_REPORT_ERROR | MYSQLI_REPORT_STRICT);
 
 $hostname = 'localhost';
-$username = 'root';
-$password = 'urashuto';
+$username = 'rootemetoot';
+$password = '###***###';
 $db = 'css';
 
 $conn = new mysqli($hostname, $username, $password, $db);
