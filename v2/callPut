@@ -1,0 +1,1 @@
+curl -X PUT --trace-ascii dump 'http://localhost/api.php/clients/1' -d "{'cl_name':'John Doe the 2nd', 'cl_email':'john.doe2@example.com','cl_phone':'870-416-1234', 'cl_address':'123 someStreet, someCity, someState 12345', 'cl_onboared': '2024-05-08'}" -H 'Content-Type: text/json'
